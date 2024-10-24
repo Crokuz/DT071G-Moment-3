@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Projects\\MIUN\\Programmering i C#.NET (DT071G)\\Moment 3\\Moment 3.csproj",
-      "projectName": "Moment 3",
-      "projectPath": "E:\\Projects\\MIUN\\Programmering i C#.NET (DT071G)\\Moment 3\\Moment 3.csproj",
+      "projectUniqueName": "E:\\Projects\\MIUN\\Programmering i C#.NET (DT071G)\\Moment_3\\Moment_3.csproj",
+      "projectName": "Moment_3",
+      "projectPath": "E:\\Projects\\MIUN\\Programmering i C#.NET (DT071G)\\Moment_3\\Moment_3.csproj",
       "packagesPath": "C:\\Users\\Crocus\\.nuget\\packages\\",
-      "outputPath": "E:\\Projects\\MIUN\\Programmering i C#.NET (DT071G)\\Moment 3\\obj\\",
+      "outputPath": "E:\\Projects\\MIUN\\Programmering i C#.NET (DT071G)\\Moment_3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Crocus\\AppData\\Roaming\\NuGet\\NuGet.Config"
